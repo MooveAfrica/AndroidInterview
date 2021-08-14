@@ -4,8 +4,8 @@ Connect to the given remote API (https://d17h27t6h515a5.cloudfront.net/topher/20
 
 ### Objective
 - Restrict yourself to use Kotlin.
-- Display a list of the names and images of recipes.
-- Display the list in a StaggeredLayout. 
+- Display a list of the names of recipes.
+- Display the list in a StaggeredLayout with your own images. 
 - Use Retrofit, Hilt & Kotlin Coroutine.
 
 ### What we're looking to evaluate
