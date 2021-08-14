@@ -16,9 +16,9 @@ Connect to the given remote API (https://d17h27t6h515a5.cloudfront.net/topher/20
 
 ### Instructions
 1. Clone this repo to a repo on your own Github account and **make it private**
-2. Invite user `Osaigbovo`  and `abbeydabiri` `ponokwai` to collaborate on that repo
+2. Invite user `Osaigbovo` , `abbeydabiri` and `ponokwai` to collaborate on that repo
 3. Address each step of the problem above and commit as necessary
-4. Once you are finished, open a PR on your work and assign `Osaigbovo`  and `abbeydabiri` as reviewers and notify your Moove contact via email.
+4. Once you are finished, open a PR on your work and assign `Osaigbovo`, `abbeydabiri` and `ponokwai` as reviewers and notify your Moove contact via email.
 
 ### Duration
 This asessment should not take more than 4 hours but out of respect for your time, please cap the amount you spend on the assignment to 6-8 hours.
