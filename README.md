@@ -16,7 +16,7 @@ Connect to the given remote API (https://d17h27t6h515a5.cloudfront.net/topher/20
 
 ### Instructions
 1. Clone this repo to a repo on your own Github account and **make it private**
-2. Invite user `Osaigbovo`  and `abbeydabiri` to collaborate on that repo
+2. Invite user `Osaigbovo`  and `abbeydabiri` `ponokwai` to collaborate on that repo
 3. Address each step of the problem above and commit as necessary
 4. Once you are finished, open a PR on your work and assign `Osaigbovo`  and `abbeydabiri` as reviewers and notify your Moove contact via email.
 
